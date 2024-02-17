@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701754467 source:c:\users\user\documents\code blocks\ping pong\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+

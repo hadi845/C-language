@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701146876 source:c:\users\user\documents\code blocks\string searching\main.c
+	<stdio.h>
+	<string.h>
+
